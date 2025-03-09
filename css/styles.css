@@ -4,13 +4,23 @@ body {
     color: rgb(80, 80, 80);
 }
 
+.top-menu {
+
+    list-style-type: none;
+    color: #00383e;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
 h1,h2{
     color: #333;
     font-size: 2em;
     text-align: center;
 }
 
-p{
+p {
+    color: #333;
     margin: 10px 20px;
     text-align: center;
 }
